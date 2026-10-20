@@ -204,19 +204,6 @@ irm https://get.activated.win | iex
 Установка прошла, но активация ещё не завершена. Смотри раздел 5
 
 
-## 🔗 Проверенные страницы и дата
-
-Обновлено **20 октября 2026 года**. Скриншоты взяты из руководств ASUS; это примеры интерфейса, а не снимки твоего компьютера. Интерфейсы зависят от модели и сборки Windows.
-
-- [Microsoft: переустановка с установочного носителя](https://support.microsoft.com/en-US/Windows/Deployment/Install-Upgrade/reinstall-windows-with-the-installation-media)
-- [Microsoft: активация Windows](https://support.microsoft.com/en-us/windows/activation/activate-windows)
-- [ASUS: загрузка с USB](https://www.asus.com/global/support/faq/1013017/)
-- [MSI: загрузка с выбранного устройства](https://us.msi.com/support/technical_details/MB_Boot_OS_Entry)
-- [Gigabyte: клавиши меню загрузки и BIOS](https://download.gigabyte.com/FileList/Manual/desktop_pc_manual_ai-top-100-z890_1005_e.pdf)
-- [Dell: BIOS и меню загрузки](https://www.dell.com/support/kbdoc/en-us/000126121/access-uefi-bios-system-setup-from-windows-on-your-dell-system)
-- [HP: запуск и выбор устройства](https://support.hp.com/in-en/document/ish_6930187-6931079-16)
-- [Установщики Office: указанная пользователем страница](https://massgrave.dev/office_c2r_links)
-- [MAS: указанная пользователем главная страница](https://massgrave.dev/)
 
 ---
 
