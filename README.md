@@ -217,3 +217,7 @@ irm https://get.activated.win | iex
 - [HP: запуск и выбор устройства](https://support.hp.com/in-en/document/ish_6930187-6931079-16)
 - [Установщики Office: указанная пользователем страница](https://massgrave.dev/office_c2r_links)
 - [MAS: указанная пользователем главная страница](https://massgrave.dev/)
+
+---
+
+*Если что-то не получается — напиши мне, помогу разобраться.*
